@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a03c91f-7de0-4abf-97de-cebc28b75ec3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esercizi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es_if/Esercizio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oggetti/00 introduzione/ClassePrincipale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oggetti/00 introduzione/Timbro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oggetti/01 cane/Cane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oggetti/01 cane/ClassePrincipale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oggetti/02/Cane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oggetti/02/ClassePrincipale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oggetti/02/Persona.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l1iEj9p77KcOiMFWD8VlijN93Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a03c91f-7de0-4abf-97de-cebc28b75ec3" name="Default Changelist" comment="" />
+      <created>1606770888382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606770888382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="chore: " />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="209" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1606770952695">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="458" y="209" key="#com.intellij.ide.util.PackageChooserDialog/0.25.1440.807@0.25.1440.807" timestamp="1606770952695" />
+    <state x="494" y="323" width="452" height="251" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606770962883">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="494" y="323" width="452" height="251" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.807@0.25.1440.807" timestamp="1606770962882" />
+    <state x="385" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1606771742621">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="385" y="156" width="670" height="676" key="search.everywhere.popup/0.25.1440.807@0.25.1440.807" timestamp="1606771742621" />
+  </component>
+</project>
