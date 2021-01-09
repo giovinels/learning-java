@@ -20,19 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a03c91f-7de0-4abf-97de-cebc28b75ec3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/esercizi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es_if/Esercizio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oggetti/00 introduzione/ClassePrincipale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oggetti/00 introduzione/Timbro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oggetti/01 cane/Cane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oggetti/01 cane/ClassePrincipale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oggetti/02/Cane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oggetti/02/ClassePrincipale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oggetti/02/Persona.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/EsMeli01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es_if/Esercizio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es_if/Esercizio01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +50,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EsMeli01" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="array.EsMeli01" />
+      <module name="esercizi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -97,14 +97,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="90" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610214564340">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state x="184" y="90" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.809@0.25.1440.809" timestamp="1610214564340" />
     <state x="458" y="209" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1606770952695">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
     <state x="458" y="209" key="#com.intellij.ide.util.PackageChooserDialog/0.25.1440.807@0.25.1440.807" timestamp="1606770952695" />
+    <state x="457" y="237" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610214517341">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state x="457" y="237" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.809@0.25.1440.809" timestamp="1610214517341" />
     <state x="494" y="323" width="452" height="251" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606770962883">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
     <state x="494" y="323" width="452" height="251" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.807@0.25.1440.807" timestamp="1606770962882" />
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom" timestamp="1610214696484">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1610214696484" />
+    <state width="1398" height="314" key="GridCell.Tab.0.center" timestamp="1610214696482">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1610214696482" />
+    <state width="1398" height="314" key="GridCell.Tab.0.left" timestamp="1610214696482">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1610214696482" />
+    <state width="1398" height="314" key="GridCell.Tab.0.right" timestamp="1610214696484">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="314" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1610214696484" />
     <state x="385" y="156" width="670" height="676" key="search.everywhere.popup" timestamp="1606771742621">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
