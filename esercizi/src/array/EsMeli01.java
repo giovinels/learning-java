@@ -29,6 +29,10 @@ public class EsMeli01 {
 
         for(int i = 0; i < N; i++) {
             array[i] = getNumber();
+
+            if((array[i] < -7) || (array[i] > 40)) {
+                i--;
+            }
         }
 
         for(int i = 0; i < N; i++) {
