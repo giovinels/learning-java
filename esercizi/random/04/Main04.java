@@ -10,7 +10,7 @@
  */
 import java.util.Scanner;
 
-public class Main {
+public class Main04 {
     public static int getNumber() {
         Scanner t = new Scanner(System.in);
 

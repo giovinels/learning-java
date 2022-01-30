@@ -1,14 +1,14 @@
 
-public class ClassePrincipale {
+public class ClassePrincipale02 {
     public static void main(String[] args) {
         Persona mario, lucia, p3;
-        Cane dog;
+        Cane02 dog;
 
         mario = new Persona("Mario", "Rossi", 'm', 40);
         lucia = new Persona("Lucia", "Verdi", 'f', 12);
         p3 = new Persona("Pippo", "Baudo", 'n', 22);
 
-        dog = new Cane("Bob", "1/1/2020");
+        dog = new Cane02("Bob", "1/1/2020");
         mario.setCane(dog);
 
         System.out.println(mario.toString());

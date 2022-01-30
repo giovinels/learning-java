@@ -4,7 +4,7 @@ import java.util.Scanner;
  *  su schermo tutti i suoi divisori
  */
 
-public class Main {
+public class Main01 {
     public static int getNumber() {
         Scanner t = new Scanner(System.in);
 

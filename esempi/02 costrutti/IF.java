@@ -24,7 +24,7 @@ public class IF {
             System.out.println("a vale più di 5");
         } else if(a == 5) {
             System.out.println("a vale esattamente 5");
-        } else if((a > 0) && (a > 5)) {
+        } else if((a > 0) && (a < 5)) {
             System.out.println("0 < a < 5");
         } else {
             System.out.println("a minore o uguale a 0");

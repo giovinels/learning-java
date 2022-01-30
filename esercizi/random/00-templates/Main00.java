@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main00 {
     public static int getNumber() {
         Scanner t = new Scanner(System.in);
 
@@ -10,11 +10,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        for(inizializzazione; condizione_di_uscita; incremento) {
+        //for(inizializzazione; condizione_di_uscita; incremento) {
             // operazione da ripetere
             // operazione da ripetere
             // ..
-        }
+        //}
         
     }
 }

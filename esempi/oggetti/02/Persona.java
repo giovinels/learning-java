@@ -3,7 +3,7 @@ public class Persona {
     String nome, cognome;
     char sesso;
     int anni;
-    Cane cane;
+    Cane02 cane;
 
     public Persona(String nome, String cognome, char sesso, int anni) {
         this.nome = nome;
@@ -12,7 +12,7 @@ public class Persona {
         this.anni = anni;
     }
 
-    public void setCane(Cane cane) {
+    public void setCane(Cane02 cane) {
         this.cane = cane;
     }
 

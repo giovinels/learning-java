@@ -5,7 +5,7 @@ import java.util.Scanner;
  *  numeri pari e la quantità di numeri dispari
  */
 
- public class Main {
+ public class Main02 {
      public static int getInput() {
          Scanner t = new Scanner(System.in);
 

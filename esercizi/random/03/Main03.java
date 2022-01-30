@@ -8,7 +8,7 @@
 
  import java.util.Scanner;
 
- public class Main {
+ public class Main03 {
      public static int getNumber() {
          Scanner t = new Scanner(System.in);
 

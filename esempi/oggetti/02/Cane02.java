@@ -1,8 +1,8 @@
 
-public class Cane {
+public class Cane02 {
     String nome, dataDiNascita;
 
-    public Cane(String nome, String dataDiNascita) {
+    public Cane02(String nome, String dataDiNascita) {
         this.nome = nome; /* il this serve a risolvere l'omonimia e indicare
                            * che si vuole assegnaere il parametro attuale
                            * della funzione all'attributo 'nome' della

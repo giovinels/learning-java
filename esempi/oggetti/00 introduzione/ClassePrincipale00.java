@@ -1,5 +1,5 @@
 
-public class ClassePrincipale {
+public class ClassePrincipale00 {
     public static void main(String[] args) {
         Timbro t1, t2, t3;
 

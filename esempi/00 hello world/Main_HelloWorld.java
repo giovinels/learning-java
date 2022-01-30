@@ -1,5 +1,5 @@
 
-public class Main {
+public class Main_HelloWorld {
     public static void main(String[] args) { //l'esecuzione parte da qui
         System.out.println("Hello world!");
     } //parentesi di chiusura della funzione main
