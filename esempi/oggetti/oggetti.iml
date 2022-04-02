@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/01 cane" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 - ereditarietà" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 - ereditarietà (dinamic binding)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
